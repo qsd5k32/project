@@ -1,0 +1,10 @@
+{
+    "name": "vendor/package",
+    "authors": [
+        {
+            "name": "lotfio-lakehal",
+            "email": "lotfiolakehal@gmail.com"
+        }
+    ],
+    "require": {}
+}
